@@ -1,0 +1,7 @@
+pandas==2.2.3
+streamlit==1.43.2
+torch==2.2.2
+transformers==4.48.0
+numpy==1.26.4
+matplotlib
+wordcloud
