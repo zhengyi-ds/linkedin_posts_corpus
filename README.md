@@ -14,6 +14,7 @@ A corpus collection and annotation project focusing on LinkedIn data for linguis
 |------|----------|
 | Corpus Collection POC | [`src/POC_Corpus.ipynb`](src/POC_Corpus.ipynb) |
 | Original Data Storage | [`data/linkedIn_data.csv`](data/linkedIn_data.csv) |
+| Project Proposal|['documents/Project_Proposal.pdf'](documents/Project_Proposal.pdf)|
 
 ## 📌 Sprint 2
 
