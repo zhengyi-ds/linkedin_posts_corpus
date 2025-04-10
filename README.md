@@ -1,6 +1,4 @@
-# COLX523 LinkedIn Corpus Project 🔍
-
-[![Kanban Board](https://img.shields.io/badge/Kanban_Board-View_Progress-blue?style=flat-square&logo=github)](https://github.ubc.ca/users/zyshan/projects/1)
+# LinkedIn Corpus Project 🔍
 
 ## Project Overview
 
@@ -14,8 +12,6 @@ A corpus collection and annotation project focusing on LinkedIn data for linguis
 
 | Task | Location |
 |------|----------|
-| Teamwork Contract | [`documents/Teamwork_Contract.pdf`](documents/Teamwork_Contract.pdf) |
-| Project Proposal | [`documents/Project_Proposal.pdf`](documents/Project_Proposal.pdf) |
 | Corpus Collection POC | [`src/POC_Corpus.ipynb`](src/POC_Corpus.ipynb) |
 | Original Data Storage | [`data/linkedIn_data.csv`](data/linkedIn_data.csv) |
 
